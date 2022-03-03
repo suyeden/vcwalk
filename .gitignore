@@ -2,3 +2,4 @@ bin/
 private/
 release/
 lib/*.dll
+.github/*.org
