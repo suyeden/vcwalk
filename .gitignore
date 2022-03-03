@@ -1,0 +1,4 @@
+bin/
+private/
+release/
+lib/*.dll
